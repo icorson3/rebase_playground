@@ -1,4 +1,4 @@
-As a user,
+As a registered user,
 
 When I visit the course index,
 
